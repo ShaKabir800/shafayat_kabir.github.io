@@ -1,25 +1,42 @@
-# Shafayat Kabir — GitHub Pages starter site
+# Shafayat Kabir — Personal GitHub Pages Site
 
-## Publish this site
-1. Create a GitHub repository named `shafayat_kabir.github.io`.
-2. Upload the `index.html`, `style.css`, and `assets` folder to the repository root.
-3. In the repository, open **Settings → Pages**.
-4. Choose **Deploy from a branch**, select `main`, and choose `/(root)`.
-5. Visit `https://shafayat_kabir.github.io`.
+Your repository name is:
+
+```text
+shafayatkabir.github.io
+```
+
+Your public website address is:
+
+```text
+https://shafayatkabir.github.io
+```
+
+## Publish the site
+
+1. Open your repository: `https://github.com/shafayatkabir/shafayatkabir.github.io`
+2. Upload `index.html`, `style.css`, `README.md`, and the `assets` folder to the repository root.
+3. Open **Settings → Pages**.
+4. Under **Build and deployment**, choose:
+   - Source: **Deploy from a branch**
+   - Branch: **main**
+   - Folder: **/(root)**
+5. Save and open `https://shafayatkabir.github.io`.
 
 ## Edit these first
-- In `index.html`, replace `shafayat_kabir` with your actual GitHub username.
-- Add your LinkedIn link.
-- Upload your CV as `assets/Shafayat_Kabir_CV.pdf`, then uncomment the CV navigation link.
-- Replace the initials profile card with a professional photo later if you wish.
-- Update the project cards as your thesis and publications evolve.
 
-## Optional next pages
-When this one-page site is live, add:
-- `research.html`
-- `publications.html`
-- `teaching.html`
-- `cv.html`
-- `contact.html`
+- Update or add your LinkedIn address in `index.html`.
+- Upload your CV as `assets/Shafayat_Kabir_CV.pdf`.
+- Remove the comment marks around the CV link in the navigation section of `index.html`.
+- Replace the initials card with a professional image later, if desired.
+- Refresh the project descriptions whenever you finish a thesis milestone, paper, poster, or new project.
 
-Keep the first version lightweight. A clean, accurate site is more valuable than a complicated site with unfinished sections.
+## Current folder layout
+
+```text
+shafayatkabir.github.io/
+├── index.html
+├── style.css
+├── README.md
+└── assets/
+```
